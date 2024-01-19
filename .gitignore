@@ -1,0 +1,5 @@
+# Ignoriere das Verzeichnis "pictures"
+pictures/
+
+# Ignoriere die Datei ".DS_Store" im gesamten Projekt
+.DS_Store

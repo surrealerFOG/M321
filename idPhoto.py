@@ -3,8 +3,8 @@ import requests
 import json
 import base64
 
-image_folder = "pics"
-output_folder = "processedPics"
+image_folder = "pictures"
+output_folder = "processedPictures"
 host = "https://api-us.idphotoapp.com"
 url = host + "/v2/makeIdPhoto"
 API_KEY = 'udRf8vk238f0tm'
